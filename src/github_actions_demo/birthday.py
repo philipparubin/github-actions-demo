@@ -1,2 +1,2 @@
 def get_birthday():
-    return "23th September"
+    return "23rd September"
